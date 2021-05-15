@@ -11,7 +11,7 @@ This script assumes you have 64 bit Chrome installed.
 
 THE ZOTAC QUEUE URL MIGHT CHANGE AT EACH DROP, IF THIS HAPPENS, OPEN zotacstore.com, pass the captcha, then find/replace the URL with the queue URL in the code. Since we are using the queue URL, you will not need to compete a captcha for each session (unless they change it).
 
-Copy the code below and put it in an empty text file named tony.bat (the name isn't important, just needs to be a .bat file) and save it. Double click bat file to run. You can also open more or less than 20, just figured it's a good starting point. If your machine can handle it, just copy/paste additional lines but make sure you change the --profile-directory= number on your new lines.
+Copy the code below and put it in an empty text file named tony.bat (the name isn't important, just needs to be a .bat file) and save it. Double click bat file to run. You can also open more or less than 20, just figured it's a good starting point. If your machine can handle it, just edit "(1, 1, 20)" to however many windows you want open, ie (1, 1, 50) for 50 browsers.
 
 
 
